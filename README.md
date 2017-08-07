@@ -11,6 +11,9 @@ In **Python**, I’ve completed a project of sentiment classification on IMDb Mo
 
 For other **data visualization project** in R, **Tableau** and Gephi, I’ve preprocessed 1G&1.7G raw data files in R and created network visualization of 100 artists in Gephi in 2016 ASA Datafest competition. I’ve also filtered and cleaned crime and population data of 51 states from Uniform Crime Reporting Statistics and U.S. Census Bureau, and presented exploratory and correlation analysis on crimes and locations in Tableau. I have also created scatterplots, boxplots, correlation heatmaps and spatial maps on concentration and hourly NowCast AQI in R and Tableau.
 
+## SKILLS
+R, Python, SQL, STATA, Tableau, Gephi, JavaScipt, HTML, CSS.
+
 ## PROJECTS
 - [Sentiment Classification Analysis On IMDb Movie Reviews](https://github.com/clairewlj/Sentiment-Analysis)<br />May 2017
   
@@ -37,42 +40,10 @@ For other **data visualization project** in R, **Tableau** and Gephi, I’ve pre
   Fitted multivariate linear regression models on household consumption against family assets based on 2011 CHFS data in STATA. Decomposed R-square by Shapley Value Decomposition method, and discovered the most significant variables to be non-financial assets.
 
 ## OTHER EXPERIENCES
-- Computer Tech Team Volunteer, The WiderNet Project<br />Oct. 2016 – Dec. 2016
+- **Computer Tech Team Volunteer**, The WiderNet Project<br />Oct. 2016 – Dec. 2016
   
   Performed data collection and cleaning in SQL. Used text mining tool Exiftool to extract metadata from pdf/image/video files, conducted data manipulation in Postgres Database.
   
-- Business Intern, Guokr Interactive Technology Media Co Ltd<br />Aug. 2014 – Oct. 2014
+- **Business Intern**, Guokr Interactive Technology Media Co Ltd<br />Aug. 2014 – Oct. 2014
 
   Wrote and translated advertising articles and posts, designed sidebars for Intel, Qualcomm, Extra and Jaeger-LeCoultre. Managed posts for Qualcomm mobile accessory design competition. Conducted exploratory analysis on views, comments and reposts about advertising events for Kindle Fire HDX and GSK Parodontax on 3 websites, and completed case analysis statements.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clairewlj/clairewlj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
