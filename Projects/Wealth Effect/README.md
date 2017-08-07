@@ -1,0 +1,2 @@
+-	Fitted multivariate linear regression models on household consumption against family assets based on 2011 CHFS data in STATA.
+-	Decomposed R-square by Shapley Value Decomposition method, and discovered the most significant variables to be non-financial assets.
