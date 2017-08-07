@@ -1,0 +1,3 @@
+-	Conducted network analysis to find clusters of most connected artists to improve ads push efficiency. Created network visualizations in Gephi and R. 
+-	Developed a multivariate linear regression model and found quality and order of ads to be influential factors for ads effectiveness. 
+-	Cleaned and merged over 3GB ticket sale and user data from TicketMaster. 
