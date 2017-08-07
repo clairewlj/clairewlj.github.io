@@ -1,0 +1,3 @@
+-	Conducted simulations for bivariate probit model applying Monte Carlo method in STATA.
+-	Compared empirical power and empirical size of Likelihood Ratio/Wald test on endogeneity.
+-	Fitted bi-probit models for married Chinese women’s two decisions of going out to work and caring for parents at home, and found endogeneity in the model.
