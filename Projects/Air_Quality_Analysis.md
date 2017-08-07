@@ -1,0 +1,3 @@
+-	Performed hypothesis testing, helped EPA Air Quality Analysis Group evaluate performance of EPA monitors and found hourly averages of EPA VG data were lower than Federal data.
+-	Applied Box-cox data transformation on non-normally distributed data, and performed t-test and Wilcoxon signed-rank test. Conducted correlation analysis on air quality/geographical data in R.
+-	Cleaned 1 million PM2.5 and Ozone concentration data and detected outliers. 
