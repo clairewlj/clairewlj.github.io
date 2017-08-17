@@ -2,7 +2,7 @@
 
 My name is Lingjie Wang. I have just graduated with a Master’s degree in Statistics from the University of North Carolina at Chapel Hill in May. Currently I am seeking opportunities as a Data Analyst/Data Scientist. 
 
-I have a solid background in data analysis. With a deep understanding in Statistical theories, I have also completed several data analysis projects applying statistical methods in **R** and **Python** with very large datasets. These projects involve several parts of data analysis such as large data preprocessing, exploratory analysis, hypothesis testing, regression (machine learning), data mining, data visualization and and data manipulation with **SQL**. 
+I have a solid background in data analysis. With a deep understanding in statistical theories, I have also completed several data analysis projects applying statistical methods in **R** and **Python** with very large datasets. These projects involve several parts of data analysis such as large data preprocessing, exploratory analysis, hypothesis testing, regression (machine learning), data mining, data visualization and data manipulation with **SQL**. 
 
 ## MORE ABOUT ME
 For statistical analysis projects conducted in **R**, I’ve conducted statistical consulting tasks for EPA Air Quality Analysis Group, including creating scatterplots, boxplots and correlation matrix heatmap in R, and also hypothesis testing and other exploratory analysis. I've also conducted analysis involves unsupervised learning methods such as principal component analysis (PCA) for authorship identification and analysis with PCA and clustering methods (k-means, etc.) on The Cancer Genome Atlas (TCGA) Data to find clusters. 
