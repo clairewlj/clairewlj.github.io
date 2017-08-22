@@ -12,7 +12,7 @@ In **Python**, I’ve completed a project of sentiment classification on IMDb Mo
 For other **data visualization project** in R, **Tableau** and Gephi, I’ve preprocessed 1G&1.7G raw data files in R and created network visualization of 100 artists in Gephi in 2016 ASA Datafest competition. I’ve also filtered and cleaned crime and population data of 51 states from Uniform Crime Reporting Statistics and U.S. Census Bureau, and presented exploratory and correlation analysis on crimes and locations in Tableau. I have also created scatterplots, boxplots, correlation heatmaps and spatial maps on concentration and hourly NowCast AQI in R and Tableau.
 
 ## SKILLS
-R, Python, SQL, STATA, Tableau, Gephi, JavaScipt, HTML, CSS.
+R, Python, SQL, SAS, STATA, Tableau, Gephi, JavaScipt, HTML, CSS.
 
 ## PROJECTS
 - [Sentiment Classification Analysis On IMDb Movie Reviews](https://github.com/clairewlj/Sentiment-Analysis)<br />May 2017
